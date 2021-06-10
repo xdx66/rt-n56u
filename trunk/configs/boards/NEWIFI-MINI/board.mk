@@ -4,4 +4,4 @@
 # NEWIFI-MINI # Lenovo NEWIFI-MINI # MT7620  #
 ##################################################################
 CFLAGS += -DBOARD_NEWIFIMINI
-BOARD_NUM_USB_PORTS=1
+BOARD_NUM_USB_PORTS=0
